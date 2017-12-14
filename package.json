@@ -1,0 +1,19 @@
+{
+  "name": "cryptonight",
+  "version": "0.0.1",
+  "description": "A WebAssembly/asm.js implementation of the CryptoNight algorithm.",
+  "main": "dist/cryptonight.asm.js",
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burland/cryptonight.git"
+  },
+  "author": "Christian Burland Mankowski <chrisaburland@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burland/cryptonight/issues"
+  },
+  "homepage": "https://github.com/burland/cryptonight#readme"
+}
